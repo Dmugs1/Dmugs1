@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Dmugs1/vulnerability-management-program)**
-- **[Vulnerability Remediations (PowerShell Windows 10 STIGs)](https://github.com/Dmugs1/Misc/tree/main/STIGS)**
+- **[Vulnerability Remediations PowerShell Windows 10 STIGs (15)](https://github.com/Dmugs1/Misc/tree/main/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
